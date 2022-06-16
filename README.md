@@ -5,6 +5,10 @@
 
 Ближний стол (на картинке левый)
 
+![new](https://user-images.githubusercontent.com/43203558/174013748-1ab3b5f8-c739-4b7c-8f46-7acf0567f43c.jpeg)
+
 xmin,ymin = 115, 210
 
 xmax, ymax = 350, 445
+
+
