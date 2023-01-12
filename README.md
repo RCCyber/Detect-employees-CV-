@@ -12,4 +12,4 @@
 - Построить и дообучить модель
 
 ## Используемые библиотеки
-*tensorflow*, *numpy*, *pandas*, *h5py*, *matplotlib*, *opencv*
+*tensorflow*, *numpy*, *pandas*, *h5py*, *matplotlib*, *opencv*, *cv2*
